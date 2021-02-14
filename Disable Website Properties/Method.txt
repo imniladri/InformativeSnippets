@@ -1,0 +1,16 @@
+Link the Two Javascript file in the Html Page.
+As,
+
+JS:
+
+<script src="sweetalert.min.js"></script>
+<script src="securecode.js"></script>
+
+
+AND
+
+The HTML File (index.html) is for testing the operations.
+
+
+Now, Your Work is Secured/Protected.
+Thank You!
